@@ -1,4 +1,4 @@
-# instagramScr
+# instagramScraper
 
 
 
